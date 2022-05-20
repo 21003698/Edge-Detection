@@ -46,9 +46,9 @@ End the program.
 ``` Python
 #Program to find the solution for the given linear equations.
 
-#Developed by: v.charan sai
+#Developed by:challa sandeep
 
-#RegisterNumber: 21003158
+#RegisterNumber:212221240011
 
 import cv2
 import matplotlib.pyplot as plt
